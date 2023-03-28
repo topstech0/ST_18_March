@@ -1,0 +1,74 @@
+
+	OOP (Object Oriented Programming) 
+
+	OOP : Black Box 
+
+	Object-oriented programming (OOP) is a computer 		programming model that organizes software design 	around 	data, or objects, rather than functions 	and logic. An 	object can be defined as a data 	field that has unique 	attributes and behavior.
+
+
+	Types of OOP.
+
+	There are 4 Types or Pillars or Features of OOP
+
+	1) Encapsulation
+	2) Inheritance
+	3) Polymorphism
+	4) Data Abstraction
+
+
+
+	A) Encapsulation :
+
+	- It is wrapping up of data into a single unit.
+
+	e.g capsule
+
+	- class and object.
+
+	Class : It contains Data Members and Member 		Functions with some behavioural change.
+
+	Object : It is an instance of a class.
+
+	e.g papercup
+
+	B) Inheritance  (is-a ) relationship
+	
+	- It is acquiring the property of base 		class/parent  class into the derived class/child 	class.
+
+	Types of Inheritance : There are 5 types
+
+	1)Single-level Inheritance
+	2)Multi-level Inheritance
+	3)Multiple -level Inheritance
+	4) Hierarchical - level Inheritance
+	5) Hybrid - level Inheritance
+
+	C) Polymorphism :
+
+	Poly -> Many  
+	morphism - > Forms
+
+	-It is a combination of Many Forms
+
+	There are 2 Types of Polymorphism
+
+	1) Compile-Time Polymorphism
+		e.g Method overloading
+
+	2) Run- Time Polymorphism
+		e.g Method Overriding
+
+
+	Data Abstraction :
+
+	It is hiding the internal implementation and 		showing	the essential detail.
+	
+
+	
+
+	
+	
+
+
+
+
