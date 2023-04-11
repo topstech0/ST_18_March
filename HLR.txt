@@ -1,0 +1,9 @@
+
+	HLR : (High Level Requirements)
+
+	Rules of HLR
+
+	1) Top to Bottom and Bottom to Top Approach.
+	2) To check all the functionality from Top Left Corner to Bottom Right Corner.
+	3) To check all the functionality from left to right like a Notebook.
+	4) When your menu will change the functionality Id will also be change.
